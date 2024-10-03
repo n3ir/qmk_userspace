@@ -1,0 +1,3 @@
+[submodule "keyboards/bastardkb/skeletyl/keymaps/n3ir"]
+	path = keyboards/bastardkb/skeletyl/keymaps/n3ir
+	url = https://github.com/n3ir/keyboard-config
